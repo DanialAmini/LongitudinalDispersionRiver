@@ -6,4 +6,5 @@ There are many papers that give formulas for predicting longitudinal dispersion 
 Possible places for considering submission when it's ready: 
 
 International Journal of River Basin Management 
+
 River Research and Applications
